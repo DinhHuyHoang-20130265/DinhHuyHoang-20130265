@@ -16,7 +16,7 @@
 <p align="center" style="margin-bottom: 0px !important;">
   Contact me: <br>
   📧 E-mail: dinh37823@gmail.com <br>
-  🔔 Facebook: fb.me/44696E682048757920486F616E672031353038/ <br>
+  🔔 Facebook: https://www.facebook.com/44696E682048757920486F616E672031353038/ <br>
   📷 Instagram: https://www.instagram.com/hoang11a1/ <br>
 </p>
 <!---

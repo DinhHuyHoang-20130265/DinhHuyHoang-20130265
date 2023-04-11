@@ -18,7 +18,7 @@
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=dinhhuyhoang-20130265&count_private=true&show_icons=true&theme=tokyonight" />
  <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhuyhoang-20130265&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
+<img height="150px" width="350px" />
   
 <h2 align="left" font-weight="bold">About me</h2>
 <ul>

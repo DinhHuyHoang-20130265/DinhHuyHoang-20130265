@@ -31,7 +31,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhhuyhoang-20130265&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 <p align="center">
-  <img src="https://github.com/dinhhuyhoang-20130265/lilhuy0405/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/DinhHuyHoang-20130265/snake/blob/main/snake.svg" alt="snake"></center>
 </p>
 
 <br>

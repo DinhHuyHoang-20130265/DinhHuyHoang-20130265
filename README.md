@@ -1,7 +1,9 @@
 <p align="center" style="margin-bottom: 0px !important;">
   👋 Hi, I’m @dinh37823 (or you can call me Hoang) 
 </p>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<p align="center">
+   <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
+</p>
 <p align="center" style="margin-bottom: 0px !important;">
   👀 I’m interested in learning, playing, and also sleeping 🐶
 </p>

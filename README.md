@@ -16,8 +16,10 @@
   </a>
 </div>
 <h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=dinhhuyhoang-20130265&count_private=true&show_icons=true&theme=tokyonight" />
+<div align="center">
+<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=dinhhuyhoang-20130265&count_private=true&show_icons=true&theme=tokyonight" />
 <img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhuyhoang-20130265&layout=compact&theme=aura&langs_count=9" />
+</div>
 <h2 align="left" font-weight="bold">About me</h2>
   <ul align="left">
     <li>👋 Hi, I’m @dinh37823 (or you can call me Hoang)</li>

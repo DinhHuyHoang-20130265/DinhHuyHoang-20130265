@@ -16,10 +16,11 @@
   </a>
 </div>
 <h1 align="center"></h1>
+<br>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=dinhhuyhoang-20130265&count_private=true&show_icons=true&theme=tokyonight" />
  <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhuyhoang-20130265&layout=compact&theme=aura&langs_count=9" />
 <img height="150px" />
-  
+<br>
 <h2 align="left" font-weight="bold">About me</h2>
 <ul>
   <li>👋 Hi, I’m @dinh37823 (or you can call me Hoang)</li>
@@ -27,7 +28,7 @@
   <li>🌱 I’m currently learning at Nong Lam University</li>
   <li>💞️ I want to become a Full-Stack Developer in the future 😎</li>
 </ul>
-<br>
+c
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhhuyhoang-20130265&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 <p align="center">
   <img src="https://github.com/DinhHuyHoang-20130265/snake/blob/main/snake.svg" alt="snake"></center>

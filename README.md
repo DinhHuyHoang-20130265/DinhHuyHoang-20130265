@@ -1,9 +1,7 @@
 <p align="center" style="margin-bottom: 0px !important;">
   👋 Hi, I’m @dinh37823 (or you can call me Hoang) 
 </p>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/81217823/173866069-d77cd4bf-8097-42fb-8329-946aa17ff25d.png">
-</div>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <p align="center" style="margin-bottom: 0px !important;">
   👀 I’m interested in learning, playing, and also sleeping 🐶
 </p>

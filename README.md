@@ -22,7 +22,7 @@
 </div>
 <h2 align="left" font-weight="bold">About me</h2>
   <ul align="left">
-    <li>👋 Hi, I’m @dinh37823 (or you can call me Hoang)</li>
+    <li>👋 Hi, I’m @DinhHuyHoang-20130265 (or you can call me Hoang)</li>
     <li>👀 I’m interested in learning, playing, and also sleeping 🐶</li>
     <li>🌱 I’m currently learning at Nong Lam University</li>
     <li>💞️ I want to become a Full-Stack Developer in the future 😎</li>
